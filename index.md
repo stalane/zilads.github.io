@@ -2,4 +2,4 @@
 
 # Zilliqa Ads 
 ## Public Website
-We will update this website before October 20th 2021. Thanks for visiting. 
+Launching soon! We will update this website before October 20th 2021. Thanks for visiting. 

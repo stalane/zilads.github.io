@@ -1,5 +1,5 @@
 const spendAddress = "0xc415de79eabe0def14866a2a559a40cf87329ca3";
-const toAddress = ""; 
+const toAddress = "0x40fB760E008a81AA4BCA292622A137a3b4063631"; 
 const price = 5;
 const amount = 10 ** 6 * price; // 5 $ADS
 

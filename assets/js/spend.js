@@ -45,4 +45,4 @@ const buyWith = async ({contractAddress, amount, toAddress}) => {
 
 }
 
-document.getElementById("spend-ads-token").addEventListener ("click", async () => await buyWith({contractAddress:donateAddress, amount, toAddress }), false);
+document.getElementById("spend-ads-token").addEventListener ("click", async () => await buyWith({contractAddress:spendAddress, amount, toAddress }), false);
